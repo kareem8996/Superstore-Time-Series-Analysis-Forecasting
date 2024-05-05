@@ -1,7 +1,6 @@
 # Superstore-Time-Series-Analysis-Forecasting
 
-#### Note:
-Plotly graphs don't seem to appear on github, will fix it soon!
+#### Note: Plotly graphs don't seem to appear on github, will fix it soon!
 
 ## Overview
 This project involves conducting time series analysis on sales data from a superstore. The goal is to analyze historical sales patterns, identify trends, seasonality, and other factors influencing sales performance, and develop predictive models to forecast future sales.
